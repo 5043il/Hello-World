@@ -1,0 +1,6 @@
+x=10
+y=(x*x*x*x*x)
+import math
+while math.log10(x)<y:
+print (x)
+x +=1
